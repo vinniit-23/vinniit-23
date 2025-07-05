@@ -20,7 +20,7 @@
 ### 🚀 Tech Stack
 
 - 💻 Languages: Java, Python, C language
-- 🔧 Tools: Git, VS Code, Linux
+- 🔧 Tools: Git, VS Code, Linux, Shell Scripting
 - 🌐 Web: HTML, CSS , javascript 
 - 🛢️ Databases: MongoDB,
 - 📚 Currently learning: DSA, ML, React, and Spring Boot
