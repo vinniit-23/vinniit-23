@@ -21,9 +21,9 @@
 
 - 💻 Languages: Java, Python, C language
 - 🔧 Tools: Git, VS Code, Linux
-- 🌐 Web: HTML, CSS
+- 🌐 Web: HTML, CSS , javascript 
 - 🛢️ Databases: MongoDB,
-- 📚 Currently learning: React, Spring Boot, and System Design
+- 📚 Currently learning: DSA, ML, React, and Spring Boot
 
 ---
 
